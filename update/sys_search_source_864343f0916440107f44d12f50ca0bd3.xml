@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>タスク</name>
+        <source_table>x_snc_expense_report</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-15 05:38:29</sys_created_on>
+        <sys_id>864343f0916440107f44d12f50ca0bd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>タスク</sys_name>
+        <sys_package display_value="Expense" source="x_snc_expense">034e7630916440107f44d12f50ca0be4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expense">034e7630916440107f44d12f50ca0be4</sys_scope>
+        <sys_update_name>sys_search_source_864343f0916440107f44d12f50ca0bd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-15 05:38:29</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=864343f0916440107f44d12f50ca0bd3"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>864343f0916440107f44d12f50ca0bd3</documentkey>
+        <fieldname>name</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-15 05:38:29</sys_created_on>
+        <sys_id>8a4343f0916440107f44d12f50ca0bd4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-15 05:38:29</sys_updated_on>
+        <tablename>sys_search_source</tablename>
+        <value>タスク</value>
+    </sys_translated_text>
+</record_update>

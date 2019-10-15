@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Expense Report" max_length="40" name="x_snc_expense_report" text_index="true" type="collection"/>
+</database>
